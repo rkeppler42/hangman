@@ -40,6 +40,11 @@ python main.py
 - ASCII art hangman with 7 progressive stages
 - Clear win/loss messages
 
+## 📝 Credits
+
+ASCII hangman art adapted from *Automate the Boring Stuff with Python* by Al Sweigart.  
+All game logic was designed and implemented independently.
+
 ## 👤 Author
 
 **Roberto Keppler** — [@rkeppler42](https://github.com/rkeppler42)
@@ -87,6 +92,11 @@ python main.py
 - Validação de input (somente letras, sem repetição)
 - Arte ASCII com 7 estágios progressivos
 - Mensagens claras de vitória e derrota
+
+## 📝 Créditos
+
+Arte ASCII do boneco adaptada de *Automate the Boring Stuff with Python* de Al Sweigart.  
+Toda a lógica do jogo foi desenvolvida de forma independente.
 
 ## 👤 Autor
 
